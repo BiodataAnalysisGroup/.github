@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there 👋 we are the Biodata Analysis Group
 
-<!--
 
-**Here are some ideas to get you started:**
+The Biodata Analysis Group (also known as the Bioinformatics Lab at the [Institute of Applied Biosciences (INAB / CERTH)](https://inab.certh.gr/) is active in Bioinformatics research, focusing on the design of new algorithms and pipelines.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a group of enthusiastic researchers, active in the following key fields:
+
+- Machine Learning and Data Mining
+- Multi-omics data integration
+- Training for Life Sciences
+
+For more details, have a look at our [site](https://biodataanalysisgroup.github.io/).
